@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    height: 70vh;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.heightt{
+    padding: 20px;
+    background-color: rgb(106, 106, 121);
+}
+.temp{
+    text-align: center;
+    margin-bottom: 20px;
+}
+select{
+    width: 45%;
+    padding: 5px;
+}
+.celfah{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.degree{
+    display: flex;
+    justify-content: space-between;
+}
+.degree span{
+    font-size: 30px;
+}
+input{
+    padding: 5px;
+    width: 45%;
+}
+.btn{
+    margin-top: 20px;
+    text-align: center;
+}
+button{
+    padding: 10px 20px;
+    background-color: black;
+    color:wheat;
+    cursor: pointer;
+    border-radius: 10px;
+}
