@@ -1,2 +1,2 @@
-# OBISIP-TASK3
+# TempConverter
 Temperature converter using HTML,CSS and JavaScript.
